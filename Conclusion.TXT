@@ -1,0 +1,1 @@
+Using 3 hidden layers improved the simple accuracy to 96%, even with 6-fold cross validation. This seems to be in line with the research literature out there about deep neural networks for computer vision. Having more layers and more neurons tends to improve the network's performance.

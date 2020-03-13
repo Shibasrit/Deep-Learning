@@ -1,0 +1,1 @@
+In this Guided Project, the limitations of traditional machine learning models for image classification is observed by training, testing, and improving upon few different deep neural networks for image classification.
