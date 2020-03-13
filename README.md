@@ -1,2 +1,2 @@
 # Deep-Learning
-Using Neural network and hidden layers this project is an attempt to build a Handwritten Digits Classifier.
+Using Neural network and hidden layers this project builds a standard Handwritten Digits Classifier.
